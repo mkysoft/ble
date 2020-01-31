@@ -3,3 +3,5 @@ Sample program for printing QR barcode with Unitech bluetooth printer. Tested wi
 
 Service UID: 49535343-fe7d-4ae5-8fa9-9fafd205e455  
 Characteristic UID: 49535343-8841-43f4-a8d4-ecbe34729bb3
+
+ble.js based on [WebBluetoothCG](https://github.com/WebBluetoothCG) [printer](https://github.com/WebBluetoothCG/demos/tree/gh-pages/bluetooth-printer) sample app.
